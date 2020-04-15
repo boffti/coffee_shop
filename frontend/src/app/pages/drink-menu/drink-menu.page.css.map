@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,oFAAI;AACZ,AAAA,SAAS,CAAC;EACN,WAAW,EAAE,yBAAyB;EACtC,SAAS,EAAE,KAAK;CACnB",
+    "sources": [
+        "drink-menu.page.scss"
+    ],
+    "names": [],
+    "file": "drink-menu.page.css"
+}
